@@ -1,0 +1,14 @@
+C:\Repos\AdventOfCode\AdventOfCode\AdventOfCode.1\bin\Debug\net8.0\AdventOfCode.1.exe
+C:\Repos\AdventOfCode\AdventOfCode\AdventOfCode.1\bin\Debug\net8.0\AdventOfCode.1.deps.json
+C:\Repos\AdventOfCode\AdventOfCode\AdventOfCode.1\bin\Debug\net8.0\AdventOfCode.1.runtimeconfig.json
+C:\Repos\AdventOfCode\AdventOfCode\AdventOfCode.1\bin\Debug\net8.0\AdventOfCode.1.dll
+C:\Repos\AdventOfCode\AdventOfCode\AdventOfCode.1\bin\Debug\net8.0\AdventOfCode.1.pdb
+C:\Repos\AdventOfCode\AdventOfCode\AdventOfCode.1\obj\Debug\net8.0\AdventOfCode.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\AdventOfCode\AdventOfCode\AdventOfCode.1\obj\Debug\net8.0\AdventOfCode.1.AssemblyInfoInputs.cache
+C:\Repos\AdventOfCode\AdventOfCode\AdventOfCode.1\obj\Debug\net8.0\AdventOfCode.1.AssemblyInfo.cs
+C:\Repos\AdventOfCode\AdventOfCode\AdventOfCode.1\obj\Debug\net8.0\AdventOfCode.1.csproj.CoreCompileInputs.cache
+C:\Repos\AdventOfCode\AdventOfCode\AdventOfCode.1\obj\Debug\net8.0\AdventOfCode.1.dll
+C:\Repos\AdventOfCode\AdventOfCode\AdventOfCode.1\obj\Debug\net8.0\refint\AdventOfCode.1.dll
+C:\Repos\AdventOfCode\AdventOfCode\AdventOfCode.1\obj\Debug\net8.0\AdventOfCode.1.pdb
+C:\Repos\AdventOfCode\AdventOfCode\AdventOfCode.1\obj\Debug\net8.0\AdventOfCode.1.genruntimeconfig.cache
+C:\Repos\AdventOfCode\AdventOfCode\AdventOfCode.1\obj\Debug\net8.0\ref\AdventOfCode.1.dll

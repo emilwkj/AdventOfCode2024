@@ -1,0 +1,14 @@
+C:\Repos\AdventOfCode\AdventOfCode\AdventOfCode.2\bin\Debug\net8.0\AdventOfCode.2.exe
+C:\Repos\AdventOfCode\AdventOfCode\AdventOfCode.2\bin\Debug\net8.0\AdventOfCode.2.deps.json
+C:\Repos\AdventOfCode\AdventOfCode\AdventOfCode.2\bin\Debug\net8.0\AdventOfCode.2.runtimeconfig.json
+C:\Repos\AdventOfCode\AdventOfCode\AdventOfCode.2\bin\Debug\net8.0\AdventOfCode.2.dll
+C:\Repos\AdventOfCode\AdventOfCode\AdventOfCode.2\bin\Debug\net8.0\AdventOfCode.2.pdb
+C:\Repos\AdventOfCode\AdventOfCode\AdventOfCode.2\obj\Debug\net8.0\AdventOfCode.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\AdventOfCode\AdventOfCode\AdventOfCode.2\obj\Debug\net8.0\AdventOfCode.2.AssemblyInfoInputs.cache
+C:\Repos\AdventOfCode\AdventOfCode\AdventOfCode.2\obj\Debug\net8.0\AdventOfCode.2.AssemblyInfo.cs
+C:\Repos\AdventOfCode\AdventOfCode\AdventOfCode.2\obj\Debug\net8.0\AdventOfCode.2.csproj.CoreCompileInputs.cache
+C:\Repos\AdventOfCode\AdventOfCode\AdventOfCode.2\obj\Debug\net8.0\AdventOfCode.2.dll
+C:\Repos\AdventOfCode\AdventOfCode\AdventOfCode.2\obj\Debug\net8.0\refint\AdventOfCode.2.dll
+C:\Repos\AdventOfCode\AdventOfCode\AdventOfCode.2\obj\Debug\net8.0\AdventOfCode.2.pdb
+C:\Repos\AdventOfCode\AdventOfCode\AdventOfCode.2\obj\Debug\net8.0\AdventOfCode.2.genruntimeconfig.cache
+C:\Repos\AdventOfCode\AdventOfCode\AdventOfCode.2\obj\Debug\net8.0\ref\AdventOfCode.2.dll

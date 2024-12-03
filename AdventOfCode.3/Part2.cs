@@ -11,7 +11,7 @@ namespace AdventOfCode._3
     {
         static void Main(string[] args)
         {
-            string contents = File.ReadAllText(@"C:\Repos\AdventOfCode\AdventOfCode\AdventOfCode.3\input.txt");
+            string contents = File.ReadAllText(@"C:\Repos\AdventOfCode\AdventOfCode.3\input.txt");
             var matches = Regex.Matches(contents, @"mul\([0-9]?[0-9]?[0-9],[0-9]?[0-9]?[0-9]\)|don't\(\)|do\(\)");
             int totalNumber = 0;
             bool enabled = true;

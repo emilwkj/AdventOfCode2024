@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repos\\AdventOfCode\\AdventOfCode\\AdventOfCode.2\\AdventOfCode.2.csproj": {}
+    "C:\\Repos\\AdventOfCode\\AdventOfCode.2\\AdventOfCode.2.csproj": {}
   },
   "projects": {
-    "C:\\Repos\\AdventOfCode\\AdventOfCode\\AdventOfCode.2\\AdventOfCode.2.csproj": {
+    "C:\\Repos\\AdventOfCode\\AdventOfCode.2\\AdventOfCode.2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repos\\AdventOfCode\\AdventOfCode\\AdventOfCode.2\\AdventOfCode.2.csproj",
+        "projectUniqueName": "C:\\Repos\\AdventOfCode\\AdventOfCode.2\\AdventOfCode.2.csproj",
         "projectName": "AdventOfCode.2",
-        "projectPath": "C:\\Repos\\AdventOfCode\\AdventOfCode\\AdventOfCode.2\\AdventOfCode.2.csproj",
+        "projectPath": "C:\\Repos\\AdventOfCode\\AdventOfCode.2\\AdventOfCode.2.csproj",
         "packagesPath": "C:\\Users\\hkf44emk\\.nuget\\packages\\",
-        "outputPath": "C:\\Repos\\AdventOfCode\\AdventOfCode\\AdventOfCode.2\\obj\\",
+        "outputPath": "C:\\Repos\\AdventOfCode\\AdventOfCode.2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hkf44emk\\AppData\\Roaming\\NuGet\\NuGet.Config",

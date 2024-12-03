@@ -18,7 +18,7 @@ namespace AdventOfCode
         {
             int safeReports = 0;
 
-            using (var reader = new StreamReader(@"C:\Repos\AdventOfCode\AdventOfCode\AdventOfCode.2\input.txt"))
+            using (var reader = new StreamReader(@"C:\Repos\AdventOfCode\AdventOfCode.2\input.txt"))
             {
                 while (!reader.EndOfStream)
                 {
